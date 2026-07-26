@@ -1,4 +1,5 @@
-User-agent: *
+User-Agent: *
 Allow: /
+Disallow: /api/
 
-Sitemap: https://bigballoonevents.com/sitemap.xml
+Sitemap: https://bigballoonevents.in/sitemap.xml
